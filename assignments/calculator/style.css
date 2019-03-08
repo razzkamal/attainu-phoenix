@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+}
+.left {
+    width: 500px;
+    height: 200px;
+}
+input {
+    font-size: 2em;
+}
+button {
+    font-size: 3em;
+}
