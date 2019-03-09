@@ -1,0 +1,9 @@
+body {
+    background-color: rebeccapurple;
+
+}
+.center {
+    width: 400px;   
+    margin: 0% auto;
+    height: 20px;
+}
