@@ -1,0 +1,20 @@
+h1 {
+  margin-left: 500px;
+}
+
+label {
+
+    display: block;
+    padding: 20px;
+}
+
+fieldset {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+button {
+    
+    margin-left: 200px;
+}
